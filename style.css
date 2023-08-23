@@ -1,0 +1,11 @@
+#heading {
+    text-align: center;
+}
+
+#form {
+    position: relative;
+    left: 50px;
+    width: fit-content;
+    background-color: darkgray;
+    align-content: center;
+}
